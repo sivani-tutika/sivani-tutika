@@ -11,10 +11,10 @@
 ### 💫 About Me
 
 - 🎓 Master’s in Artificial Intelligence | 4.0 GPA | University of North Texas  
-- 💼 3+ years of experience across startups, research labs, and academic roles  
+- 💼 2+ years of experience across startups, research labs, and academic roles  
 - 🤖 Passionate about AI, ML, Deep Learning, and building impactful tech solutions  
-- 🚀 Seeking full-time roles in Software Development or AI/ML Engineering  
-- 🧠 I love building with Python, Angular, and exploring new tools like Supabase  
+- 🚀 Seeking full-time roles in Software Development or AI/ML Engineering.
+- 🧠 I love building with Python, Angular, and exploring new tools.
 - 📫 Reach me at [**sivanitutika4@gmail.com**](mailto:sivanitutika4@gmail.com)
 
 ---
@@ -43,14 +43,22 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+
+
 
 #### ⚙️ Backend & APIs
 ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### 🧠 AI / ML / DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -77,9 +85,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 
 ---
 
@@ -110,10 +120,3 @@
 
 If you like what I do, please ⭐ this repo and connect with me on [LinkedIn](https://linkedin.com/in/sivani-tutika)! Let's build something great together.
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sivani-tutika&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
