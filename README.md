@@ -11,7 +11,7 @@
 ### 💫 About Me
 
 - 🎓 Master’s in Artificial Intelligence | 4.0 GPA | University of North Texas  
-- 💼 2+ years of experience across startups, research labs, and academic roles  
+- 💼 5+ years of experience across startups, research labs, and academic roles  
 - 🤖 Passionate about AI, ML, Deep Learning, and building impactful tech solutions  
 - 🚀 Seeking full-time roles in Software Development or AI/ML Engineering.
 - 🧠 I love building with Python, Angular, and exploring new tools.
