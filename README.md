@@ -7,15 +7,17 @@
 </p>
 
 ---
-
-### 💫 About Me
-
-- 🎓 Master’s in Artificial Intelligence | 4.0 GPA | University of North Texas  
-- 💼 5+ years of experience across startups, research labs, and academic roles  
-- 🤖 Passionate about AI, ML, Deep Learning, and building impactful tech solutions  
-- 🚀 Seeking full-time roles in Software Development or AI/ML Engineering.
-- 🧠 I love building with Python, Angular, and exploring new tools.
-- 📫 Reach me at [**sivanitutika4@gmail.com**](mailto:sivanitutika4@gmail.com)
+ 
+## About Me
+ 
+AI Engineer and Full-Stack Developer with 5+ years of experience building across the stack — from ML pipelines and LLM-powered agents to production web applications. MS in Artificial Intelligence, University of North Texas.
+ 
+I work at the intersection of AI and software engineering: I'm as comfortable designing a multi-agent LangGraph pipeline as I am building the frontend that surfaces it. Actively seeking full-time roles in **AI/ML Engineering** or **Software Development**.
+ 
+- 🤖 Working with LangGraph, LLM APIs, and multi-agent systems
+- 🧠 Background in deep learning, graph neural networks, and applied ML research
+- 🌐 Full-stack experience: Python backends, Angular/React frontends, REST APIs
+- 📍 Based in Denton, TX — open to remote and relocation
 
 ---
 
@@ -30,6 +32,18 @@
 ---
 
 ### 💻 Tech Skills
+
+
+#### 🧠 AI / ML / DL
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyG](https://img.shields.io/badge/PyTorch%20Geometric-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![RDKit](https://img.shields.io/badge/RDKit-007ACC?style=for-the-badge&logo=chemistry&logoColor=white)
 
 #### 👩‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,17 +74,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-#### 🧠 AI / ML / DL
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyG](https://img.shields.io/badge/PyTorch%20Geometric-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-007ACC?style=for-the-badge&logo=chemistry&logoColor=white)
-
 #### 🧪 Testing & QA
 ![Gherkin](https://img.shields.io/badge/Gherkin-5e5e5e?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-2088FF?style=for-the-badge)
@@ -89,6 +92,16 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+ 
+## Featured Projects
+ 
+<!-- Pin your best repos here — update these links -->
+ 
+### 🔗 [LangGraph Multi-Agent Demo · Nemotron 3 Super](https://github.com/sivani-tutika/langgraph-nemotron-demo)
+A browser-native LangGraph-style multi-agent pipeline powered by NVIDIA Nemotron 3 Super (120B MoE). Built the day of the LangChain × NVIDIA GTC announcement. Four agents, real inference, zero dependencies.
+`LangGraph` `NVIDIA` `Multi-Agent` `OpenRouter` `Vanilla JS`
 
 
 ---
